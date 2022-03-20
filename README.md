@@ -1,0 +1,2 @@
+# updateingp
+同时支持V4和代理认证功能的MentoHUST，适用于Linux下的锐捷认证
